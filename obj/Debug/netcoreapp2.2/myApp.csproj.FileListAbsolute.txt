@@ -1,0 +1,11 @@
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/chriswilliams/Desktop/Dev/c#_work/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
